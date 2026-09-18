@@ -27,7 +27,7 @@ The database is designed to expand globally.
 | 🎓 Universities | [Universities.md](./Universities.md) |
 | 👨‍🏫 Potential supervisors | [Professors.md](./Professors.md) |
 | 🗂️ Verified opportunities | [opportunities/2026-09-18-multidisciplinary.md](./opportunities/2026-09-18-multidisciplinary.md) |
-| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-9.md](./opportunities/2026-09-18-current-verification-update-9.md) |
+| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-10.md](./opportunities/2026-09-18-current-verification-update-10.md) |
 | 💰 Funding | [Funding.md](./Funding.md) |
 | 📄 Research papers | [Research-Papers.md](./Research-Papers.md) |
 | 🧩 Research gaps | [Research-Gaps.md](./Research-Gaps.md) |
@@ -55,7 +55,7 @@ The database is **not limited to Computer Science or AI**. It includes engineeri
 
 The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London, University of Zurich, University of Tübingen and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science, origins of life, metabolic disease, tribology, chemical biology, remote sensing, forestry, sustainable agriculture, engineering geology, solid mechanics, materials chemistry, permafrost science, biomedical devices, computational chemistry, human nutrition, respiratory/cardiac science, microbiology/immunology, philosophy of technology, AI ethics, digital anthropology, STS and human-centered agentic science.
 
-See [the latest verification update](./opportunities/2026-09-18-current-verification-update-9.md). Records distinguish active funded calls from research-area/supervisor fits and explicitly flag information requiring further review.
+The newest batch adds **Cambridge biostatistics, precision medicine, statistical machine learning, mixture-model methodology, and adaptive clinical-trial estimation** with current January 2027 recruitment evidence. See [the latest verification update](./opportunities/2026-09-18-current-verification-update-10.md).
 
 ## ⚠️ Research integrity
 
