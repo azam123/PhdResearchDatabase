@@ -27,6 +27,7 @@ The database is designed to expand globally.
 | 🎓 Universities | [Universities.md](./Universities.md) |
 | 👨‍🏫 Potential supervisors | [Professors.md](./Professors.md) |
 | 🗂️ Verified opportunities | [opportunities/2026-09-18-multidisciplinary.md](./opportunities/2026-09-18-multidisciplinary.md) |
+| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-3.md](./opportunities/2026-09-18-current-verification-update-3.md) |
 | 💰 Funding | [Funding.md](./Funding.md) |
 | 📄 Research papers | [Research-Papers.md](./Research-Papers.md) |
 | 🧩 Research gaps | [Research-Gaps.md](./Research-Gaps.md) |
@@ -50,11 +51,11 @@ The database is **not limited to Computer Science or AI**. It includes engineeri
 - Verification date, source quality, and confidence status
 - Clear distinction between an advertised project and a proposed topic
 
-## 🗂️ Latest verified opportunity batch
+## 🗂️ Latest verified opportunity batches
 
-The repository now includes a dated evidence set covering **TUM, Oxford, ETH Zurich, and Cambridge**, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, energy technology, economics, and future infrastructure.
+The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science and origins of life.
 
-See [the verified opportunity batch](./opportunities/2026-09-18-multidisciplinary.md). Records distinguish active funded calls from open degree programmes and potential-supervisor research fits.
+See [the latest verification update](./opportunities/2026-09-18-current-verification-update-3.md). Records distinguish active funded calls from research-area/supervisor fits and explicitly flag information requiring further review.
 
 ## ⚠️ Research integrity
 
@@ -88,7 +89,8 @@ MCA · Principal Engineer · Software Engineering, AI Systems, and interdiscipli
 - [x] Four-country initial scope
 - [x] Multidisciplinary subject taxonomy
 - [x] Research portal directory
-- [x] Initial verified opportunity batch
+- [x] Initial verified opportunity batches
+- [x] Official university supervisor/contact verification examples
 - [ ] 50+ fully sourced topic records
 - [ ] Supervisor and contact verification pipeline
 - [ ] Funding and deadline tracker
