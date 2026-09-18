@@ -27,7 +27,7 @@ The database is designed to expand globally.
 | 🎓 Universities | [Universities.md](./Universities.md) |
 | 👨‍🏫 Potential supervisors | [Professors.md](./Professors.md) |
 | 🗂️ Verified opportunities | [opportunities/2026-09-18-multidisciplinary.md](./opportunities/2026-09-18-multidisciplinary.md) |
-| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-6.md](./opportunities/2026-09-18-current-verification-update-6.md) |
+| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-7.md](./opportunities/2026-09-18-current-verification-update-7.md) |
 | 💰 Funding | [Funding.md](./Funding.md) |
 | 📄 Research papers | [Research-Papers.md](./Research-Papers.md) |
 | 🧩 Research gaps | [Research-Gaps.md](./Research-Gaps.md) |
@@ -53,9 +53,9 @@ The database is **not limited to Computer Science or AI**. It includes engineeri
 
 ## 🗂️ Latest verified opportunity batches
 
-The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London, University of Zurich and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science, origins of life, metabolic disease, tribology, chemical biology, remote sensing, forestry and sustainable agriculture.
+The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London, University of Zurich and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science, origins of life, metabolic disease, tribology, chemical biology, remote sensing, forestry, sustainable agriculture, engineering geology, solid mechanics, materials chemistry and permafrost science.
 
-See [the latest verification update](./opportunities/2026-09-18-current-verification-update-6.md). Records distinguish active funded calls from research-area/supervisor fits and explicitly flag information requiring further review.
+See [the latest verification update](./opportunities/2026-09-18-current-verification-update-7.md). Records distinguish active funded calls from research-area/supervisor fits and explicitly flag information requiring further review.
 
 ## ⚠️ Research integrity
 
