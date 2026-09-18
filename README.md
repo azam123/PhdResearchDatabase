@@ -27,7 +27,7 @@ The database is designed to expand globally.
 | 🎓 Universities | [Universities.md](./Universities.md) |
 | 👨‍🏫 Potential supervisors | [Professors.md](./Professors.md) |
 | 🗂️ Verified opportunities | [opportunities/2026-09-18-multidisciplinary.md](./opportunities/2026-09-18-multidisciplinary.md) |
-| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-11.md](./opportunities/2026-09-18-current-verification-update-11.md) |
+| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-12.md](./opportunities/2026-09-18-current-verification-update-12.md) |
 | 💰 Funding | [Funding.md](./Funding.md) |
 | 📄 Research papers | [Research-Papers.md](./Research-Papers.md) |
 | 🧩 Research gaps | [Research-Gaps.md](./Research-Gaps.md) |
@@ -53,9 +53,9 @@ The database is **not limited to Computer Science or AI**. It includes engineeri
 
 ## 🗂️ Latest verified opportunity batches
 
-The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London, University of Zurich, University of Tübingen and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science, origins of life, metabolic disease, tribology, chemical biology, remote sensing, forestry, sustainable agriculture, engineering geology, solid mechanics, materials chemistry, permafrost science, biomedical devices, computational chemistry, human nutrition, respiratory/cardiac science, microbiology/immunology, philosophy of technology, AI ethics, digital anthropology, STS and human-centered agentic science, atmospheric chemistry, rehabilitation science and molecular/cell biology.
+The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London, University of Zurich, University of Tübingen and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science, origins of life, metabolic disease, tribology, chemical biology, remote sensing, forestry, sustainable agriculture, engineering geology, solid mechanics, materials chemistry, permafrost science, biomedical devices, computational chemistry, human nutrition, respiratory/cardiac science, microbiology/immunology, philosophy of technology, AI ethics, digital anthropology, STS, human-centered agentic science, atmospheric chemistry, rehabilitation science, molecular/cell biology, hydrology, water quality, quantum physics and photonics.
 
-The newest batch adds **ETH atmospheric chemistry, biomedical machine perfusion, dynamic covalent hydrogels, stroke-recovery movement biomarkers, and Oxford molecular/cell biology in health and disease**. See [the latest verification update](./opportunities/2026-09-18-current-verification-update-11.md).
+The newest batch adds **ETH hydrology and climate impacts on water quality, neutral-atom quantum computing, experimental ultrafast optics/photonics, and Cambridge fair and robust cancer-risk prediction using health data**. See [the latest verification update](./opportunities/2026-09-18-current-verification-update-12.md).
 
 ## ⚠️ Research integrity
 
