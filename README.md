@@ -27,7 +27,7 @@ The database is designed to expand globally.
 | 🎓 Universities | [Universities.md](./Universities.md) |
 | 👨‍🏫 Potential supervisors | [Professors.md](./Professors.md) |
 | 🗂️ Verified opportunities | [opportunities/2026-09-18-multidisciplinary.md](./opportunities/2026-09-18-multidisciplinary.md) |
-| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-14.md](./opportunities/2026-09-18-current-verification-update-14.md) |
+| 🆕 Latest verification update | [opportunities/2026-09-18-current-verification-update-15.md](./opportunities/2026-09-18-current-verification-update-15.md) |
 | 💰 Funding | [Funding.md](./Funding.md) |
 | 📄 Research papers | [Research-Papers.md](./Research-Papers.md) |
 | 🧩 Research gaps | [Research-Gaps.md](./Research-Gaps.md) |
@@ -55,7 +55,7 @@ The database is **not limited to Computer Science or AI**. It includes engineeri
 
 The repository includes dated evidence sets covering TUM, Oxford, ETH Zurich, Cambridge, Imperial College London, University of Zurich, University of Tübingen and other institutions, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, biomedical science, biostatistics, aerospace engineering, sustainable aviation, planetary science, origins of life, metabolic disease, tribology, chemical biology, remote sensing, forestry, sustainable agriculture, engineering geology, solid mechanics, materials chemistry, permafrost science, biomedical devices, computational chemistry, human nutrition, respiratory/cardiac science, microbiology/immunology, philosophy of technology, AI ethics, digital anthropology, STS, human-centered agentic science, atmospheric chemistry, rehabilitation science, molecular/cell biology, hydrology, water quality, quantum physics and photonics, applied macroeconomics/political economy, and plant/developmental biology and experimental biophysics.
 
-The newest batch adds **University of Tübingen opportunities in plant stem-cell pattern scaling, plant immune-receptor evolution and X-ray/neutron scattering with ML**, plus the current **Cambridge Leverhulme Centre for Life in the Universe PhD studentship call**. See [the latest verification update](./opportunities/2026-09-18-current-verification-update-14.md).
+The newest batch adds **ETH Zurich opportunities in programmable robotic matter and computational chemistry**, plus the current **Cambridge breast-cancer systems-pathology/deep-learning PhD studentship**. See [the latest verification update](./opportunities/2026-09-18-current-verification-update-15.md).
 
 ## ⚠️ Research integrity
 
