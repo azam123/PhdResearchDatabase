@@ -26,6 +26,7 @@ The database is designed to expand globally.
 | 🔬 Topic index | [Topics-Index.md](./Topics-Index.md) |
 | 🎓 Universities | [Universities.md](./Universities.md) |
 | 👨‍🏫 Potential supervisors | [Professors.md](./Professors.md) |
+| 🗂️ Verified opportunities | [opportunities/2026-09-18-multidisciplinary.md](./opportunities/2026-09-18-multidisciplinary.md) |
 | 💰 Funding | [Funding.md](./Funding.md) |
 | 📄 Research papers | [Research-Papers.md](./Research-Papers.md) |
 | 🧩 Research gaps | [Research-Gaps.md](./Research-Gaps.md) |
@@ -49,9 +50,15 @@ The database is **not limited to Computer Science or AI**. It includes engineeri
 - Verification date, source quality, and confidence status
 - Clear distinction between an advertised project and a proposed topic
 
+## 🗂️ Latest verified opportunity batch
+
+The repository now includes a dated evidence set covering **TUM, Oxford, ETH Zurich, and Cambridge**, with records spanning energy policy, sustainability, entrepreneurship, energy systems, climate physics, volcanology, animal behaviour, archaeobotany, energy technology, economics, and future infrastructure.
+
+See [the verified opportunity batch](./opportunities/2026-09-18-multidisciplinary.md). Records distinguish active funded calls from open degree programmes and potential-supervisor research fits.
+
 ## ⚠️ Research integrity
 
-A professor listed in this repository is a **potential supervisor**, not a confirmed guide. Supervision, admission, project availability, eligibility, and funding must be confirmed directly with the institution or professor.
+A professor listed in this repository is a **potential supervisor**, not a confirmed guide unless an official opportunity explicitly names them as supervisor. Supervision, admission, project availability, eligibility, and funding must be confirmed directly with the institution or professor.
 
 The database should prefer official university, research institute, government funding, publisher, and laboratory sources. Do not invent contact details, active vacancies, funding amounts, or supervisor availability.
 
@@ -81,6 +88,7 @@ MCA · Principal Engineer · Software Engineering, AI Systems, and interdiscipli
 - [x] Four-country initial scope
 - [x] Multidisciplinary subject taxonomy
 - [x] Research portal directory
+- [x] Initial verified opportunity batch
 - [ ] 50+ fully sourced topic records
 - [ ] Supervisor and contact verification pipeline
 - [ ] Funding and deadline tracker
